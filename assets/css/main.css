@@ -3169,7 +3169,8 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 5em 0 6em 0 ;
+		margin-top: 5rem;
+		padding: 1em 0 1em 0 ;
 		background-color: #f6f6f6;
 	}
 
@@ -3331,3 +3332,12 @@ input, select, textarea {
 			}
 
 		}
+
+/* Disclaimer */
+
+.disclaimer {
+  padding: 15px 25px 15px 25px;
+  border-radius: 8px; /* скругленные углы */
+  background-color: #ffe4e6; /* нежно-розовый фон */
+  font-size: 1.2rem;
+}
