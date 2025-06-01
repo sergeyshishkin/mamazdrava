@@ -3341,3 +3341,11 @@ input, select, textarea {
   background-color: #ffe4e6; /* нежно-розовый фон */
   font-size: 1.2rem;
 }
+
+/* Dzen */
+.dzen {
+  padding: 15px 25px 15px 25px;
+  border-radius: 8px; /* скругленные углы */
+  background-color: #e3f2fd; /*  */
+  font-size: 1.2rem;
+}
